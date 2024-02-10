@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.counter {
+  display: grid;
+}
+
+.btn_container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.counter_output {
+  padding-block-end: 20px;
+
+  font-family: "Cantarell", serif;
+  font-weight: 600;
+  font-size: 3rem;
+}
